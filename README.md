@@ -1,6 +1,6 @@
 # JED-Method
 
-Code for paper "[Joint Enhancement and Denoising Method via Sequential Decomposition]()"
+Code for paper "[Joint Enhancement and Denoising Method via Sequential Decomposition]()"  , *ISCAS 2018*
 
 ### Prerequisites
 - Original code is tested on Matlab R2017a 64bit, Windows 10
