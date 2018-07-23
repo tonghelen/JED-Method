@@ -4,6 +4,6 @@ Code for paper "[Joint Enhancement and Denoising Method via Sequential Decomposi
 
 ### Prerequisites
 - Original code is tested on Matlab R2017a 64bit, Windows 10
-
+- Note that R2016b may lead to errors. 
 ### Usage
 - You can easily start the program by running demo.m
